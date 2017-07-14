@@ -18,6 +18,9 @@
 // -------------------------------------------------------------
 
 
+// Uses uvm_unit's sv_test unit-test framework:
+// https://github.com/cquickstad/uvm_unit/
+
 `include "sv_test.svh"
 import sv_test_pkg::*;
 
