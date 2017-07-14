@@ -17,6 +17,8 @@
 //    permissions and limitations under the License.
 // -------------------------------------------------------------
 
+// This code is available from https://github.com/cquickstad/txt_tbl
+
 
 class column_info;
   string  title_lines[$];

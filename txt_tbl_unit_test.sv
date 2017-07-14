@@ -17,6 +17,7 @@
 //    permissions and limitations under the License.
 // -------------------------------------------------------------
 
+// This code is available from https://github.com/cquickstad/txt_tbl
 
 // Uses uvm_unit's sv_test unit-test framework:
 // https://github.com/cquickstad/uvm_unit/
