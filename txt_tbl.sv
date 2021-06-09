@@ -65,6 +65,10 @@ class column_info;
     width = 0;
     foreach (title_lines[i]) width = max(width, title_lines[i].len());
   endfunction : set_width_to_largest_line
+
+  static function int max(int a, int b);
+    return (a > b) ? a : b;
+  endfunction : max
 endclass : column_info
 
 
